@@ -1,0 +1,3 @@
+GetResult函数
+
+testMain函数
